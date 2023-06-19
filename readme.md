@@ -16,11 +16,11 @@ With its seamless integration of ReactJS, NodeJS, ExpressJS, and MySQL, it
 empowers administrators, teachers, and students to efficiently manage and access
 student information, fostering a productive learning environment.
 
-## TO use the app
+###################### TO use the app ##########################################
 
 #1 generate mySQl database into the computer named - "practice".
 
-#2 Rename the file .env.example to -> .env and give it PORT, DATABASE, HOST, USER, AND PASSWORD of the database.
+#2 Rename the file .env.example to -> .env and Assign it PORT of the server and DATABASE, HOST, USER, AND PASSWORD of the database.
 
 #3 Goto the client folder change all the api according to your ports.
 
