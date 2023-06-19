@@ -19,6 +19,9 @@ student information, fostering a productive learning environment.
 ## TO use the app
 
 #1 generate mySQl database into the computer named - "practice".
+
 #2 Rename the file .env.example to -> .env and give it PORT, DATABASE, HOST, USER, AND PASSWORD of the database.
+
 #3 Goto the client folder change all the api according to your ports.
+
 #4 Then use the command "npm start" in both folders.
